@@ -3,6 +3,9 @@
 ## Level 1 — Fundamentals
 
 * [x] Two Sum
+* [x] Second Largest Element
+* [x] Find the missing number
+* [x] Left rotate an array by K places
 * [x] Contains Duplicate
 * [ ] Best Time to Buy and Sell Stock
 * [x] Maximum Subarray
@@ -33,6 +36,7 @@
 * [x] Longest Substring Without Repeating Characters
 * [x] Minimum Size Subarray Sum
 * [x] Max Consecutive Ones III
+* [x] Longest subarray with at most K zeroes
 
 ### Prefix Sum
 
@@ -42,8 +46,8 @@
 
 ### Kadane
 
-* [ ] Maximum Subarray
-* [ ] Maximum Product Subarray
+* [x] Maximum Subarray
+* [x] Maximum Product Subarray
 
 ### Intervals
 
@@ -60,12 +64,20 @@
 * [ ] Next Permutation
 * [ ] Majority Element II
 * [ ] Trapping Rain Water
-* [ ] First Missing Positive
-* [ ] Maximum Product Subarray
+* [x] First Missing Positive
+* [x] Maximum Product Subarray
+* [ ] Maximum profit with multiple transactions
+* [x] Rearrange array elements by sign
 
+
+* [ ] Longest subarray with sum 0
+* [ ] Count subarrays with XOR K
 ---
 
 ## Revisit
+
+
+Revise patterns properly and debig the implementation before going to ai (sliding window, prefixSum)
 
 Problems I could not solve independently:
 
