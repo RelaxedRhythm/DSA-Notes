@@ -2,10 +2,10 @@
 
 ## Level 1 — Fundamentals
 
-* [ ] Valid Anagram
-* [ ] Valid Palindrome
-* [ ] Reverse String
-* [ ] Reverse Words in a String
+* [x] Valid Anagram
+* [x] Valid Palindrome
+* [x] Reverse String
+* [x] Reverse Words in a String
 * [ ] Merge Strings Alternately
 
 ---
@@ -14,19 +14,19 @@
 
 ### Frequency
 
-* [ ] Valid Anagram
-* [ ] Ransom Note
-* [ ] Find the Difference
+* [x] Valid Anagram
+* [x] Ransom Note
+* [x] Find the Difference
 
 ### Two Pointers
 
-* [ ] Valid Palindrome
-* [ ] Reverse String
-* [ ] Reverse Words in a String
+* [x] Valid Palindrome
+* [x] Reverse String
+* [x] Reverse Words in a String
 
 ### Sliding Window
 
-* [ ] Longest Substring Without Repeating Characters
+* [x] Longest Substring Without Repeating Characters
 * [ ] Longest Repeating Character Replacement
 * [ ] Minimum Window Substring
 * [ ] Permutation in String
