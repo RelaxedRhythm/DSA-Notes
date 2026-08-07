@@ -1,14 +1,16 @@
 # 🌳 Tree Problems
 
-> Problem checklist for revision and practice.
+> Master checklist for revision and practice.
+>
+> **Status:** ⬜ Not Done · 🟡 Attempted · 🟢 Solved · 🔵 Revised
 
-Sources:
+**Sources:**
 
-- Blind 75
-- NeetCode 150
-- Striver Tree Sheet
-- LeetCode
-- Placement Interviews
+* Blind 75
+* NeetCode 150
+* Striver Tree Sheet
+* LeetCode
+* Placement Interviews
 
 ---
 
@@ -23,13 +25,15 @@ Sources:
 LeetCode: 104
 
 Sources:
-- Blind 75
-- NeetCode
-- Striver
+
+* Blind 75
+* NeetCode
+* Striver
 
 Pattern:
-
 Tree Height / DFS
+
+Status: [x]
 
 ---
 
@@ -38,12 +42,14 @@ Tree Height / DFS
 LeetCode: 100
 
 Sources:
-- Blind 75
-- NeetCode
+
+* Blind 75
+* NeetCode
 
 Pattern:
-
 Tree Matching
+
+Status: [x]
 
 ---
 
@@ -52,12 +58,14 @@ Tree Matching
 LeetCode: 226
 
 Sources:
-- Blind 75
-- NeetCode
+
+* Blind 75
+* NeetCode
 
 Pattern:
-
 DFS Recursion
+
+Status: [x]
 
 ---
 
@@ -66,12 +74,14 @@ DFS Recursion
 LeetCode: 101
 
 Sources:
-- NeetCode
-- Striver
+
+* NeetCode
+* Striver
 
 Pattern:
-
 Mirror Recursion
+
+Status: [x]
 
 ---
 
@@ -79,12 +89,14 @@ Mirror Recursion
 
 LeetCode: 144
 
-Sources:
-- Striver
+Source:
+
+* Striver
 
 Pattern:
-
 DFS Traversal
+
+Status: [x]
 
 ---
 
@@ -92,12 +104,14 @@ DFS Traversal
 
 LeetCode: 94
 
-Sources:
-- Striver
+Source:
+
+* Striver
 
 Pattern:
-
 DFS Traversal / BST
+
+Status: [x]
 
 ---
 
@@ -105,12 +119,14 @@ DFS Traversal / BST
 
 LeetCode: 145
 
-Sources:
-- Striver
+Source:
+
+* Striver
 
 Pattern:
-
 DFS Traversal
+
+Status: [x]
 
 ---
 
@@ -119,13 +135,15 @@ DFS Traversal
 LeetCode: 102
 
 Sources:
-- Blind 75
-- NeetCode
-- Striver
+
+* Blind 75
+* NeetCode
+* Striver
 
 Pattern:
-
 BFS
+
+Status: [x]
 
 ---
 
@@ -134,13 +152,15 @@ BFS
 LeetCode: 110
 
 Sources:
-- Blind 75
-- NeetCode
-- Striver
+
+* Blind 75
+* NeetCode
+* Striver
 
 Pattern:
-
 Tree DP
+
+Status: [x]
 
 ---
 
@@ -148,12 +168,14 @@ Tree DP
 
 LeetCode: 112
 
-Sources:
-- NeetCode
+Source:
+
+* NeetCode
 
 Pattern:
-
 Root-to-Leaf DFS
+
+Status: [x]
 
 ---
 
@@ -161,12 +183,14 @@ Root-to-Leaf DFS
 
 LeetCode: 108
 
-Sources:
-- NeetCode
+Source:
+
+* NeetCode
 
 Pattern:
+Divide & Conquer / BST
 
-Divide and Conquer / BST
+Status: ⬜
 
 ---
 
@@ -175,16 +199,18 @@ Divide and Conquer / BST
 LeetCode: 572
 
 Sources:
-- Blind 75
-- NeetCode
+
+* Blind 75
+* NeetCode
 
 Pattern:
-
 Tree Matching
+
+Status: [x]
 
 ---
 
-# ★★★★ Important
+## ★★★★ Important
 
 ---
 
@@ -193,8 +219,9 @@ Tree Matching
 LeetCode: 257
 
 Pattern:
-
 DFS Backtracking
+
+Status: ⬜
 
 ---
 
@@ -203,8 +230,9 @@ DFS Backtracking
 LeetCode: 111
 
 Pattern:
-
 BFS
+
+Status: [x]
 
 ---
 
@@ -213,12 +241,11 @@ BFS
 LeetCode: 222
 
 Pattern:
+Complete Tree / Tree Height
 
-Tree Height / Complete Tree
+Status: [x]
 
 ---
-
-<br>
 
 # Medium Problems
 
@@ -231,40 +258,46 @@ Tree Height / Complete Tree
 LeetCode: 543
 
 Sources:
-- Blind 75
-- NeetCode
-- Striver
+
+* Blind 75
+* NeetCode
+* Striver
 
 Pattern:
-
 Tree DP
+
+Status: [x]
 
 ---
 
-## 17. Lowest Common Ancestor of Binary Tree
+## 17. Lowest Common Ancestor of a Binary Tree
 
 LeetCode: 236
 
 Sources:
-- Blind 75
-- NeetCode
+
+* Blind 75
+* NeetCode
 
 Pattern:
-
 LCA
+
+Status: [x]
 
 ---
 
-## 18. Lowest Common Ancestor of Binary Search Tree
+## 18. Lowest Common Ancestor of a Binary Search Tree
 
 LeetCode: 235
 
-Sources:
-- NeetCode
+Source:
+
+* NeetCode
 
 Pattern:
-
 BST Property
+
+Status: ⬜
 
 ---
 
@@ -273,12 +306,14 @@ BST Property
 LeetCode: 98
 
 Sources:
-- Blind 75
-- NeetCode
+
+* Blind 75
+* NeetCode
 
 Pattern:
-
 BST Range Validation
+
+Status: ⬜
 
 ---
 
@@ -286,12 +321,14 @@ BST Range Validation
 
 LeetCode: 230
 
-Sources:
-- NeetCode
+Source:
+
+* NeetCode
 
 Pattern:
-
 BST Inorder
+
+Status: ⬜
 
 ---
 
@@ -300,13 +337,15 @@ BST Inorder
 LeetCode: 105
 
 Sources:
-- Blind 75
-- NeetCode
-- Striver
+
+* Blind 75
+* NeetCode
+* Striver
 
 Pattern:
-
 Tree Construction
+
+Status: ⬜
 
 ---
 
@@ -314,12 +353,14 @@ Tree Construction
 
 LeetCode: 106
 
-Sources:
-- Striver
+Source:
+
+* Striver
 
 Pattern:
-
 Tree Construction
+
+Status: ⬜
 
 ---
 
@@ -327,12 +368,14 @@ Tree Construction
 
 LeetCode: 199
 
-Sources:
-- NeetCode
+Source:
+
+* NeetCode
 
 Pattern:
-
 BFS View
+
+Status: [x]
 
 ---
 
@@ -340,12 +383,14 @@ BFS View
 
 LeetCode: 103
 
-Sources:
-- Striver
+Source:
+
+* Striver
 
 Pattern:
-
 BFS Variation
+
+Status: [x]
 
 ---
 
@@ -354,12 +399,14 @@ BFS Variation
 LeetCode: 124
 
 Sources:
-- Blind 75
-- NeetCode
+
+* Blind 75
+* NeetCode
 
 Pattern:
-
 Tree DP
+
+Status: ⬜
 
 ---
 
@@ -368,12 +415,14 @@ Tree DP
 LeetCode: 114
 
 Sources:
-- Blind 75
-- NeetCode
+
+* Blind 75
+* NeetCode
 
 Pattern:
-
 Tree Modification
+
+Status: ⬜
 
 ---
 
@@ -382,12 +431,14 @@ Tree Modification
 LeetCode: 297
 
 Sources:
-- Blind 75
-- NeetCode
+
+* Blind 75
+* NeetCode
 
 Pattern:
-
 Serialization
+
+Status: ⬜
 
 ---
 
@@ -395,12 +446,14 @@ Serialization
 
 LeetCode: 337
 
-Sources:
-- NeetCode
+Source:
+
+* NeetCode
 
 Pattern:
-
 Tree DP
+
+Status: ⬜
 
 ---
 
@@ -409,12 +462,14 @@ Tree DP
 LeetCode: 863
 
 Sources:
-- NeetCode
-- Striver
+
+* NeetCode
+* Striver
 
 Pattern:
-
 Parent Map + BFS
+
+Status: ⬜
 
 ---
 
@@ -423,8 +478,9 @@ Parent Map + BFS
 LeetCode: 652
 
 Pattern:
-
 Serialization + HashMap
+
+Status: ⬜
 
 ---
 
@@ -432,11 +488,12 @@ Serialization + HashMap
 
 Source:
 
-Striver
+* Striver
 
 Pattern:
-
 Vertical Traversal
+
+Status: [x]
 
 ---
 
@@ -444,11 +501,12 @@ Vertical Traversal
 
 Source:
 
-Striver
+* Striver
 
 Pattern:
-
 Vertical Traversal
+
+Status: [x]
 
 ---
 
@@ -456,16 +514,18 @@ Vertical Traversal
 
 LeetCode: 987
 
-Sources:
-- NeetCode
+Source:
+
+* NeetCode
 
 Pattern:
-
 Vertical BFS
+
+Status: ⬜
 
 ---
 
-# ★★★ Good Practice
+## ★★★ Good Practice
 
 ---
 
@@ -474,8 +534,9 @@ Vertical BFS
 LeetCode: 113
 
 Pattern:
-
 DFS Backtracking
+
+Status: ⬜
 
 ---
 
@@ -484,8 +545,9 @@ DFS Backtracking
 LeetCode: 129
 
 Pattern:
-
 DFS Path Building
+
+Status: [x]
 
 ---
 
@@ -494,8 +556,9 @@ DFS Path Building
 LeetCode: 814
 
 Pattern:
-
 Postorder DFS
+
+Status: ⬜
 
 ---
 
@@ -504,8 +567,9 @@ Postorder DFS
 LeetCode: 662
 
 Pattern:
-
 BFS Indexing
+
+Status: ⬜
 
 ---
 
@@ -513,11 +577,12 @@ BFS Indexing
 
 Source:
 
-Striver
+* Striver
 
 Pattern:
-
 Traversal Combination
+
+Status: ⬜
 
 ---
 
@@ -525,11 +590,12 @@ Traversal Combination
 
 Source:
 
-GeeksForGeeks
+* GeeksForGeeks
 
 Pattern:
+Diagonal BFS / DFS
 
-Diagonal BFS/DFS
+Status: ⬜
 
 ---
 
@@ -543,64 +609,38 @@ Diagonal BFS/DFS
 
 LeetCode: 99
 
-Sources:
-- NeetCode
+Source:
+
+* NeetCode
 
 Pattern:
-
 BST Inorder
 
----
-
-## 41. Binary Tree Maximum Path Sum
-
-LeetCode: 124
-
-Pattern:
-
-Tree DP
+Status: ⬜
 
 ---
 
-## 42. Serialize and Deserialize Binary Tree
-
-LeetCode: 297
-
-Pattern:
-
-Tree Encoding
-
----
-
-## 43. Largest BST Subtree
+## 41. Largest BST Subtree
 
 LeetCode: 333
 
 Pattern:
-
 Tree DP + BST
 
----
-
-## 44. Vertical Order Traversal of a Binary Tree
-
-LeetCode: 987
-
-Pattern:
-
-Coordinate BFS
+Status: ⬜
 
 ---
 
-## 45. Morris Traversal Problems
+## 42. Morris Traversal Problems
 
 Source:
 
-Striver
+* Striver
 
 Pattern:
-
 O(1) Space Traversal
+
+Status: ⬜
 
 ---
 
@@ -610,175 +650,196 @@ O(1) Space Traversal
 
 ---
 
-## 46. Kth Ancestor of a Tree Node
+## 43. Kth Ancestor of a Tree Node
 
 LeetCode: 1483
 
 Pattern:
-
 Binary Lifting
+
+Status: ⬜
 
 ---
 
-## 47. Populating Next Right Pointers in Each Node
+## 44. Populating Next Right Pointers in Each Node
 
 LeetCode: 116
 
 Pattern:
+Level Order / Pointer Manipulation
 
-Level Order
+Status: ⬜
 
 ---
 
-## 48. Populating Next Right Pointers in Each Node II
+## 45. Populating Next Right Pointers in Each Node II
 
 LeetCode: 117
 
 Pattern:
-
 BFS / Pointer Manipulation
+
+Status: ⬜
 
 ---
 
-## 49. Sum of Left Leaves
+## 46. Sum of Left Leaves
 
 LeetCode: 404
 
 Pattern:
-
 DFS
+
+Status: ⬜
 
 ---
 
-## 50. Longest Univalue Path
+## 47. Longest Univalue Path
 
 LeetCode: 687
 
 Pattern:
-
 Tree DP
+
+Status: ⬜
 
 ---
 
-## 51. Cousins in Binary Tree
+## 48. Cousins in Binary Tree
 
 LeetCode: 993
 
 Pattern:
-
 BFS
+
+Status: ⬜
 
 ---
 
-## 52. Construct String from Binary Tree
+## 49. Construct String from Binary Tree
 
 LeetCode: 606
 
 Pattern:
-
 Preorder Serialization
+
+Status: ⬜
 
 ---
 
-## 53. Add One Row to Tree
+## 50. Add One Row to Tree
 
 LeetCode: 623
 
 Pattern:
-
 BFS / DFS
+
+Status: ⬜
 
 ---
 
-## 54. Trim a Binary Search Tree
+## 51. Trim a Binary Search Tree
 
 LeetCode: 669
 
 Pattern:
-
 BST Recursion
+
+Status: ⬜
 
 ---
 
-## 55. Delete Node in a BST
+## 52. Delete Node in a BST
 
 LeetCode: 450
 
 Pattern:
-
 BST Modification
+
+Status: ⬜
 
 ---
 
-## 56. Insert into a Binary Search Tree
+## 53. Insert into a Binary Search Tree
 
 LeetCode: 701
 
 Pattern:
-
 BST
+
+Status: ⬜
 
 ---
 
-## 57. Search in a Binary Search Tree
+## 54. Search in a Binary Search Tree
 
 LeetCode: 700
 
 Pattern:
-
 BST
+
+Status: ⬜
 
 ---
 
-## 58. Range Sum of BST
+## 55. Range Sum of BST
 
 LeetCode: 938
 
 Pattern:
-
 BST Pruning
+
+Status: ⬜
 
 ---
 
-## 59. Find Mode in Binary Search Tree
+## 56. Find Mode in Binary Search Tree
 
 LeetCode: 501
 
 Pattern:
-
 BST Inorder
+
+Status: ⬜
 
 ---
 
-## 60. Recover a Tree From Preorder Traversal
+## 57. Recover a Tree From Preorder Traversal
 
 LeetCode: 1028
 
 Pattern:
-
 Tree Construction
+
+Status: ⬜
 
 ---
 
-# Final Count
+# 📊 Progress
 
-Total:
+**Total: 57 Problems**
 
-60 Problems
+* ⬜ Not Done: 57
+* 🟡 Attempted: 0
+* 🟢 Solved: 0
+* 🔵 Revised: 0
 
-Coverage:
+---
 
-✓ Traversals  
-✓ DFS  
-✓ BFS  
-✓ Tree DP  
-✓ Paths  
-✓ LCA  
-✓ Views  
-✓ Distance Problems  
-✓ Construction  
-✓ BST  
-✓ Serialization  
-✓ Advanced Concepts  
+# 🎯 Coverage
 
-This list is enough for placement preparation and product-based interviews.
+* ✓ Traversals
+* ✓ DFS
+* ✓ BFS
+* ✓ Tree DP
+* ✓ Paths
+* ✓ LCA
+* ✓ Tree Views
+* ✓ Distance Problems
+* ✓ Tree Construction
+* ✓ BST
+* ✓ Serialization
+* ✓ Backtracking
+* ✓ Morris Traversal
+* ✓ Binary Lifting
+* ✓ Advanced Tree Problems
