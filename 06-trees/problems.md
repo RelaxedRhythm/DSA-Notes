@@ -406,7 +406,7 @@ Sources:
 Pattern:
 Tree DP
 
-Status: ⬜
+Status: [x]
 
 ---
 
@@ -453,7 +453,7 @@ Source:
 Pattern:
 Tree DP
 
-Status: ⬜
+Status: [x]
 
 ---
 
@@ -521,7 +521,7 @@ Source:
 Pattern:
 Vertical BFS
 
-Status: ⬜
+Status: [x]
 
 ---
 
@@ -536,7 +536,7 @@ LeetCode: 113
 Pattern:
 DFS Backtracking
 
-Status: ⬜
+Status: [x]
 
 ---
 
@@ -582,7 +582,7 @@ Source:
 Pattern:
 Traversal Combination
 
-Status: ⬜
+Status: [x]
 
 ---
 
@@ -595,7 +595,7 @@ Source:
 Pattern:
 Diagonal BFS / DFS
 
-Status: ⬜
+Status: [x]
 
 ---
 
@@ -701,7 +701,7 @@ LeetCode: 687
 Pattern:
 Tree DP
 
-Status: ⬜
+Status: [x]
 
 ---
 
